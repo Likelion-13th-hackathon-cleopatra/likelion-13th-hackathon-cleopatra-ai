@@ -1,0 +1,31 @@
+# Python/venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.venv/
+venv/
+.env
+.env.*
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build/pytest
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+
+# Local data/results
+outputs/
+data/
+samples/
+
+# Docker artifacts
+*.log
+.env.docker # (혹시 쓴다면 비공개)

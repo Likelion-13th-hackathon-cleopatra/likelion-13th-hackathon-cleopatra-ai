@@ -1,0 +1,18 @@
+# --- FastAPI 서버 ---
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+
+# --- 데이터 모델링 ---
+pydantic>=2.7.0
+pydantic-core>=2.18.0
+typing-extensions>=4.12.0
+
+# --- JSON 처리 ---
+orjson>=3.10.0
+
+# --- HTTP/LLM 클라이언트 ---
+httpx>=0.27.0
+openai>=1.40.0   # client.responses.create 사용 시 필요
+
+# --- 날짜/시간 ---
+python-dateutil>=2.9.0
