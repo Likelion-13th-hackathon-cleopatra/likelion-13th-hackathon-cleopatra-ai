@@ -1,0 +1,103 @@
+{
+  "area": "노원구 공릉 1동",
+  "category": "외식업 일식",
+  "data": [
+    {
+      "platform": "NAVER_BLOG",
+      "platform_keyword": ["직장인", "점심", "가성비"],
+      "platform_description": "공릉역 인근 직장인 점심 수요가 많고, 가성비 좋은 정식 메뉴가 인기를 끌고 있다."
+    },
+    {
+      "platform": "NAVER_PLACE",
+      "platform_keyword": ["데이트", "분위기", "디저트"],
+      "platform_description": "저녁 시간대 연인 손님이 많으며, 분위기 좋은 좌석과 디저트 메뉴에 대한 리뷰가 많다."
+    },
+    {
+      "platform": "YOUTUBE",
+      "platform_keyword": ["철길카페", "벚꽃", "로컬맛집"],
+      "platform_description": "봄철 철길 벚꽃 시즌에는 카페와 맛집에 방문객이 몰리며, 로컬 노포 맛집도 주목받는다."
+    }
+  ],
+  "population": {
+    "total_resident": 52800,
+    "ages": {
+      "resident": {
+        "age_10_resident": 4800,
+        "age_20_resident": 8900,
+        "age_30_resident": 10100,
+        "age_40_resident": 9200,
+        "age_50_resident": 8800,
+        "age_60_plus_resident": 8000
+      },
+      "percent": {
+        "age_10_percent": 9.1,
+        "age_20_percent": 16.8,
+        "age_30_percent": 19.1,
+        "age_40_percent": 17.4,
+        "age_50_percent": 16.7,
+        "age_60_plus_percent": 15.1
+      }
+    },
+    "gender": {
+      "resident": {
+        "male_resident": 24500,
+        "female_resident": 28300
+      },
+      "percent": {
+        "male_percent": 46.4,
+        "female_percent": 53.6
+      }
+    }
+  },
+  "price": {
+    "big": {
+      "big_average": 1250000000,
+      "big_middle": 1180000000,
+      "big_count": 32
+    },
+    "small": {
+      "small_average": 355000000,
+      "small_middle": 340000000,
+      "small_count": 76
+    },
+    "price_per_meter": 5960000,
+    "price_per_pyeong": 19700000,
+    "trading_volume": {
+      "2024_3_quarter": 112,
+      "2024_4_quarter": 98,
+      "2025_1_quarter": 85,
+      "2025_2_quarter": 103
+    }
+  },
+  "income_consumption": {
+    "income": {
+      "monthly_income_average": 3850000,
+      "income_class_code": "04"
+    },
+    "consumption": {
+      "spending_total": 100,
+      "expend": {
+        "food": 22.5,
+        "clothing_footwear": 7.8,
+        "living_goods": 10.4,
+        "medical": 12.3,
+        "transport": 13.2,
+        "education": 11.1,
+        "leisure_culture": 8.7,
+        "other": 4.0,
+        "eating_out": 10.0
+      },
+      "percent": {
+        "food": 22.5,
+        "clothing_footwear": 7.8,
+        "living_goods": 10.4,
+        "medical": 12.3,
+        "transport": 13.2,
+        "education": 11.1,
+        "leisure_culture": 8.7,
+        "other": 4.0,
+        "eating_out": 10.0
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "data": {
+    "report_id": 1,
+    "primary": "요식업",
+    "secondary": "일식",
+    "sub_neighborhood": "노원구 공릉동",
+    "created_at": "2025-08-23T07:41:09.560779",
+    "description_summary": {
+      "total_description": "노원구 공릉동은 인구 및 상권 관련 구체적 데이터가 부족한 지역이에요.",
+      "line_1": "연령대별 비중 정보가 없어 특정 연령층을 겨냥한 소비 전략 수립이 어려워요.",
+      "line_2": "성별 비중 데이터가 없어 남녀 소비자 특성을 반영한 마케팅 전략 수립이 제한돼요.",
+      "line_3": "플랫폼별 방문 시간대나 행동 패턴 정보가 없어 경쟁 요소 분석과 타깃팅이 어렵습니다."
+    },
+    "description_population": {
+      "age": "~~",
+      "gender": "~~"
+    },
+    "description_price": {
+      "value_average": "~~",
+      "value_pyeong": "~~",
+      "volume": "~~"
+    },
+    "income_consumption_description": "~~",
+    "description_strategy": {
+      "review": {
+        "head": "상권 및 소비자 행동 데이터 부재로 구체적 실행 아이디어 도출이 어려워요.",
+        "body": []
+      },
+      "kpi": {
+        "head": "상기 지표를 기반으로 마케팅, 운영, 서비스 개선 전략을 수립하는 게 좋아요. 주 단위 점검을 통해 전략 실행 속도를 빠르게 최적화할 수 있어요.",
+        "body": []
+      },
+      "improvements": {
+        "head": "정기적으로 개선점을 관리하는 게 비용 누수와 고객 불만을 사전에 차단하는 데 좋아요.",
+        "body": []
+      }
+    }
+  }
+}
