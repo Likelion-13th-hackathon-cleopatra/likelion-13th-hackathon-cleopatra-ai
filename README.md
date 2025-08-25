@@ -9,7 +9,7 @@
 - **플랫폼 리뷰 분석**  
   블로그 포털, 지역 커뮤니티 플랫폼, SNS 리뷰 데이터를 기반으로 소비자 패턴 요약
 - **인구/성별/소득 기반 분석**  
-  연령대·성별·소득수준 데이터로 맞춤형 상권 설명 제공
+  연령대·성별·소득수준 데이터로 맞춤형 창업 전략 설명 제공
 - **부동산 데이터 기반 창업 전략**  
   소형/대형 점포 임대 특성, 평당 시세, 거래량 추이 해석
 - **소비 패턴 분석 및 전략 제안**  
@@ -21,12 +21,13 @@
 
 `````
 ai-report/
-├── main.py                # GPT 프롬프트 및 분석 로직
-├── server.py              # FastAPI 서버
-├── schemas.py             # Pydantic 모델 정의
+├── main.py                # LLM 호출 및 분석 로직
+├── server.py              # FastAPI 서버 실행
+├── schemas.py             # Pydantic 스키마 정의
 ├── Dockerfile             # Docker 빌드 파일
-├── docker-compose.yml     # Compose 설정
+├── requirements.txt # Python 패키지 목록
 ├── outputs/               # 결과 저장 디렉토리 (로컬 마운트)
 ├── README.md
 └── .gitignore
+└── .dockerignore
 
