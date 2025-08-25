@@ -25,7 +25,7 @@ ai-report/
 ├── server.py              # FastAPI 서버 실행
 ├── schemas.py             # Pydantic 스키마 정의
 ├── Dockerfile             # Docker 빌드 파일
-├── requirements.txt # Python 패키지 목록
+├── requirements.txt       # Python 패키지 목록
 ├── outputs/               # 결과 저장 디렉토리 (로컬 마운트)
 ├── README.md
 └── .gitignore
